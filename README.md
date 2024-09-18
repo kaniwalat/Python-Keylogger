@@ -6,6 +6,7 @@ The aim is to collect vital information about the target machine by not attracti
 1) Working Environment: Windows and Linux Systems
 2) Written language: Python
 3) Libraries used: keyboard, datetime, smtplib, time, socket, requests, os, pyautogui, wmi..
+![key1](https://github.com/user-attachments/assets/ca8bb9b6-be41-4a27-abae-284517e2b985)
 
 How it works?
 1) First of all, we need to convert our code into an exe file.
