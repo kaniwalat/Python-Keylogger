@@ -15,6 +15,7 @@ How it works?
 4) The keylogger will send us the necessary information via gmail.
    
 
+
 ![key2](https://github.com/user-attachments/assets/caad8b08-a9fd-49a6-887e-1109872e7be8)
 *Collect Machine Information
    
