@@ -1,7 +1,7 @@
 Python Keylogger
-a)Working Environment: Windows and Linux Systems
-b)Written language: Python
-c)Libraries used: keyboard, datetime, smtplib, time, socket, requests, os, pyautogui, wmi
+a) Working Environment: Windows and Linux Systems
+b) Written language: Python
+c) Libraries used: keyboard, datetime, smtplib, time, socket, requests, os, pyautogui, wmi
 
 How it works?
 1) First of all, we need to convert our code into an exe file.
