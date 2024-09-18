@@ -1,11 +1,12 @@
-Python Keylogger
+💻Python Keylogger
 
-Description: This project is aimed at making a silent keylogger for the target machine using certain python libraries.
+
+💬Description: This project is aimed at making a silent keylogger for the target machine using certain python libraries.
 The aim is to collect vital information about the target machine by not attracting attention as much as possible.
 
 1) Working Environment: Windows and Linux Systems
 2) Written language: Python
-3) Libraries used: keyboard, datetime, smtplib, time, socket, requests, os, pyautogui, wmi..
+3) Libraries used: keyboard, datetime, smtplib, time, socket, requests, os, pyautogui, wmi..📚
 
 How it works?
 1) First of all, we need to convert our code into an exe file.
